@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodeless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViolettaFilimonova/NodeLess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViolettaFilimonova/NodeLess/issues"
+  },
+  "homepage": "https://github.com/ViolettaFilimonova/NodeLess#readme",
+  "description": ""
+}
